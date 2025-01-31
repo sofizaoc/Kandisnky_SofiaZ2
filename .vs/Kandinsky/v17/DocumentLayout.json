@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\medialabadmin\\Desktop\\Kandinsky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09F47A15-E24B-7AEC-E232-D133CB36F99D}|Assembly-CSharp.csproj|c:\\users\\medialabadmin\\desktop\\kandinsky\\assets\\timeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F47A15-E24B-7AEC-E232-D133CB36F99D}|Assembly-CSharp.csproj|solutionrelative:assets\\timeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "timeline.cs",
+              "DocumentMoniker": "C:\\Users\\medialabadmin\\Desktop\\Kandinsky\\Assets\\timeline.cs",
+              "RelativeDocumentMoniker": "Assets\\timeline.cs",
+              "ToolTip": "C:\\Users\\medialabadmin\\Desktop\\Kandinsky\\Assets\\timeline.cs",
+              "RelativeToolTip": "Assets\\timeline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:57:30.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
